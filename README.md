@@ -12,17 +12,17 @@ Compared to objective tasks, subjective tasks focus more on interpretation or em
 
 The motivation of RiC is to mine useful contextual information by simulating dialogues instead of supplying CoT style rationales, thereby offering potential useful knowledge behind dialogues for giving the final answers. We evaluate both API-based and open-source LLMs including GPT-4, ChatGPT, and OpenChat across twelve tasks. Experimental results show that RiC can yield significant improvement compared with various baselines.
 
-![RiC](./images/intro.jpg)
+<center><img src="./images/intro.jpg" alt="RiC" width="50%"></center>
 
 ## Experiments
 
 Main results in zero-shot setup.
 
-![Zero-shot Results](./images/exp_1.jpg)
+<center><img src="./images/exp_1.jpg" alt="Zero-shot Results" width="100%"></center>
 
 Performance of baselines and our RiC method by using different numbers of demonstrations.
 
-![Few-shot Results](./images/exp_2.jpg)
+<center><img src="./images/exp_2.jpg" alt="Few-shot Results" width="50%"></center>
 
 ## Installation
 
