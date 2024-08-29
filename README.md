@@ -2,9 +2,9 @@
 
 **❗❗REPO UNDER CONSTRUCTION❗❗**
 
-[**📖 arXiv**](https://arxiv.org/abs/2402.17226)
+[**📖 Paper**](https://aclanthology.org/2024.acl-long.844/)
 
-This repo contains the code for paper [Reasoning in Conversation: Solving Subjective Tasks through Dialogue Simulation for Large Language Models](https://arxiv.org/abs/2402.17226).
+This repo contains the code for paper [Reasoning in Conversation: Solving Subjective Tasks through Dialogue Simulation for Large Language Models](https://aclanthology.org/2024.acl-long.844/).
 
 ## Introduction
 
@@ -35,10 +35,24 @@ Performance of baselines and our RiC method by using different numbers of demons
 ## Citation
 
 ```bibtex
-@article{wang2024reasoning,
-  title={Reasoning in Conversation: Solving Subjective Tasks through Dialogue Simulation for Large Language Models},
-  author={Wang, Xiaolong and Wang, Yile and Zhang, Yuanchi and Luo, Fuwen and Li, Peng and Sun, Maosong and Liu, Yang},
-  journal={arXiv preprint arXiv:2402.17226},
-  year={2024}
+@inproceedings{wang-etal-2024-reasoning,
+    title = "Reasoning in Conversation: Solving Subjective Tasks through Dialogue Simulation for Large Language Models",
+    author = "Wang, Xiaolong  and
+      Wang, Yile  and
+      Zhang, Yuanchi  and
+      Luo, Fuwen  and
+      Li, Peng  and
+      Sun, Maosong  and
+      Liu, Yang",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.844",
+    pages = "15880--15893",
 }
 ```
